@@ -1,0 +1,8 @@
+prerequisites:-
+	- docker installed
+	- docker compose installed
+
+To start the application run following commands-
+ docker-compose up
+
+The above command will run docker-compose.yml file, which will build the Dockerfile and run the image. 
